@@ -9,8 +9,7 @@ We use the [heart_disease.csv](heart_disease.csv) as the raw data set.
 You can find the whole code [here](https://colab.research.google.com/drive/1UBavWuPHAuDjxr5M8N5wjGck5J8FT3c7).<br>
 You can also download the dataset from https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-## Summary 
-### Dataset
+## Summary of the Dataset
 The dataset has 14 attributes. We will use the first 13 attributes as the features, and the last attribute, "target", as the labels. <br>
 "Target" is integer valued, with <br>
 <p align="center">
@@ -33,8 +32,8 @@ The first 13 attributes are:<br>
 12.number of major vessels (0-3) colored by flourosopy <br>
 13.thal: 0 = normal; 1 = fixed defect; 2 = reversable defect <br>
 
-### Main Steps to Constuct the Model
-0. import the needed module/package <br>
+## Main Steps to Constuct the Model
+0. import the needed modules/packages <br>
 1. Upload the dataset <br>
 2. Define the features and the labels <br>
 3. Seperate the train data and the test data by using the train_test_split <br>
