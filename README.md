@@ -11,31 +11,36 @@ You can also download the dataset from https://www.kaggle.com/datasets/johnsmith
 
 ## Summary 
 ### Dataset
-The dataset has 14 attributes. We will use the first 13 attributes as features, and the last attribute, "target" as labels.
-"Target" is integer valued, with 0 = no heart disease and 1 = has heart disease.
-The first 13 attributes are:
-1. age
-2. sex
-3. chest pain type (4 values)
-4. resting blood pressure
-5. serum cholestoral in mg/dl
-6. fasting blood sugar > 120 mg/dl
-7. resting electrocardiographic results (values 0,1,2)
-8. maximum heart rate achieved
-9. exercise induced angina
-10. oldpeak = ST depression induced by exercise relative to rest
-11. the slope of the peak exercise ST segment
-12.number of major vessels (0-3) colored by flourosopy
-13.thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
+The dataset has 14 attributes. We will use the first 13 attributes as features, and the last attribute, "target" as labels. <br>
+"Target" is integer valued, with <br>
+<p align="center">
+0 = no heart disease <br> 
+1 = has heart disease    
+</p>
+
+The first 13 attributes are:<br>
+1. age <br>
+2. sex <br>
+3. chest pain type (4 values) <br>
+4. resting blood pressure <br>
+5. serum cholestoral in mg/dl <br>
+6. fasting blood sugar > 120 mg/dl <br>
+7. resting electrocardiographic results (values 0,1,2) <br>
+8. maximum heart rate achieved <br>
+9. exercise induced angina <br>
+10. oldpeak = ST depression induced by exercise relative to rest <br>
+11. the slope of the peak exercise ST segment <br>
+12.number of major vessels (0-3) colored by flourosopy <br>
+13.thal: 0 = normal; 1 = fixed defect; 2 = reversable defect <br>
 
 ### Main Steps to Constuct the Model
-0. import the needed module/package
-1. Upload the dataset
-2. Define the features and the labels
-3. Seperate the train data and the test data by using the train_test_split
-4. Create a neural network using Keras.Sequential
-5. Compile the model
-6. Fit the model
-7. Analyze the performance of the model, tweak the hyperparameter such as learning rate, epoch if needed.
-8. Save the model
+0. import the needed module/package <br>
+1. Upload the dataset <br>
+2. Define the features and the labels <br>
+3. Seperate the train data and the test data by using the train_test_split <br>
+4. Create a neural network using Keras.Sequential <br>
+5. Compile the model <br>
+6. Fit the model <br>
+7. Analyze the performance of the model, tweak the hyperparameter such as learning rate, epoch if needed. <br>
+8. Save the model <br>
 
