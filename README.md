@@ -6,7 +6,7 @@ You may click on [![image](https://user-images.githubusercontent.com/108325848/1
 ](https://colab.research.google.com/?utm_source=scs-index) to open a new Google Colab file. 
 
 We use the [heart_disease.csv](heart_disease.csv) as the raw data set.
-You can find the whole code [here](https://colab.research.google.com/drive/1UBavWuPHAuDjxr5M8N5wjGck5J8FT3c7).<br>
+You can find the whole code [here](Project_1_Heart_Disease_Prediction.ipynb).<br>
 You can also download the dataset from https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 ## Summary of the Dataset
