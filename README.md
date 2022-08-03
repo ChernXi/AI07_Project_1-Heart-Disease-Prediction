@@ -32,14 +32,14 @@ The first 13 attributes are:<br>
 12.number of major vessels (0-3) colored by flourosopy <br>
 13.thal: 0 = normal; 1 = fixed defect; 2 = reversable defect <br>
 
-## Main Steps to Constuct the Model
-0. import the needed modules/packages <br>
-1. Upload the dataset <br>
-2. Define the features and the labels <br>
-3. Seperate the train data and the test data by using the train_test_split <br>
-4. Create a neural network using Keras.Sequential <br>
-5. Compile the model <br>
-6. Fit the model <br>
-7. Analyze the performance of the model, tweak the hyperparameter such as learning rate, epoch if needed. <br>
-8. Save the model <br>
+## Main Steps in the code
+- import the needed modules/packages <br>
+- Upload the dataset <br>
+- Define the features and the labels <br>
+- Seperate the train data and the test data <br>
+- Create a neural network using Keras.Sequential <br>
+- Compile the model <br>
+- Fit the model <br>
+- Analyze the performance of the model, tweak the hyperparameter such as learning rate, epoch if needed. <br>
+- Save the model <br>
 
