@@ -1,4 +1,4 @@
-# AI07_Project_Heart_Disease_Prediction
+# AI07_Project_1-Heart-Disease-Prediction
 
 This project show how to construct a Neural Network model in google colab to predict whether a patient is having heart disease or not.
 
