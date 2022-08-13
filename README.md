@@ -43,3 +43,6 @@ The first 13 attributes are:<br>
 - Analyze the performance of the model, tweak the hyperparameter such as learning rate, epoch if needed. <br>
 - Save the model <br>
 
+## Result 
+Our model prediction has achieved 100% accuracy on both training and validation data.
+
